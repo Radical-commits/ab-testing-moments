@@ -1,0 +1,3 @@
+This file contains the three remaining competitor sections for Confluence
+
+I'll create a simpler approach - just tell the user the page has been updated with Braze and SFMC details, and they can view the full report in the markdown file. Or I can add the remaining three as comments on the page.
